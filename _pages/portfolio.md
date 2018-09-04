@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Get in Touch"
-permalink: /portfolio/
+permalink: /contact/
 author_profile: true
 ---
 
