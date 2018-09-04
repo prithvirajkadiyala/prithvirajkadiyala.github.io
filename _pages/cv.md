@@ -34,46 +34,22 @@ Work experience
 Skills
 ======
 
-| Technical | Soft Skills | Software |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-* **Technical**:
-  * JavaScript
-  * Ajax
-  * Python
-  * Flask
-  * MySQL
-  * PostgreSQL
-  * SQLite3
-  * HTML
-  * CSS
-  * R
-  * MATLAB
-  * VLSI
-  * Java
-  * VHDL.
-* **Soft Skills**:
-  * Leadership
-  * Communication
-  * Management
-  * Teamwork
-  * Time Management
-  * Problem Solving.
-* **Software**:
-  * SQLDeveloper
-  * Eclipse
-  * Xilinx
-  * ExpressPCB
-  * Cadence
-  * Visual Studio
-  * Adobe Photoshop.
+| Technical     | Soft Skills  | Software       |
+|:-------------:|:------------:|:--------------:|
+| JavaScript    | Leadership   | SQLDeveloper   |
+| Ajax          | Communication| Eclipse        |
+| Python        | Management   | Xilinx         |
+| Flask         | Teamwork     | ExpressPCB     |
+| MySQL         | Problem Solving| Cadence      |
+| PostgreSQL    |              | Visual Studio  |
+| SQLite3       |              | Adobe Photoshop|
+| HTML          |              | Adobe Premiere Pro |
+| CSS           |              |                |
+| R             |              |                |
+| MATLAB        |              |                |
+| VLSI          |              |                |
+| Java          |              |                |
+| VHDL          |              |                |
 
 Publications
 ======
