@@ -16,8 +16,8 @@ redirect_from:
 3. [Skills](#skills)
 4. [Publications](#publications)
 5. [Projects](#projects)
-6. [Achievements](#achievements)
-7. [Service and Leadership](#service-and-leadership)
+6. [Accomplishment](#accomplishment)
+7. [Service](#service)
 
 Education
 ======
@@ -77,7 +77,7 @@ Projects
   7. Worked on “Network management system (NMS)” as a part of project in Bachelor’s Degree.
  
  
- Achievements
+ Accomplishment
  =====
   * Achieved 2nd prize in Analog maker competition held by Texas Instruments India in 2014.
   * Helped in the web page designing of the National Tech-fest, Pleiades 2015.
@@ -86,7 +86,7 @@ Projects
   * Attended workshops on Hacking Expert (Level 1.0) and Android App Development in NITK, Suratkal.
  
  
- Service and leadership
+ Service
  =====
 
   * Junior head of Paper\Poster presentation and Registration committee.
