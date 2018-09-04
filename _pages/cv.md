@@ -64,7 +64,8 @@ Publications
 ======
 * Performance Analysis between CAN Based ECU and a Normal ECU|Dr. R. B Shettar, Prof. Ramakrishna Joshi,and Prithviraj Kadiyala
 * Intelligent Automatic Braking System| Raj Anvekar, Prithviraj Kadiyala, Rohit M G, Sachin Kodliwad, Prof. Arun L. Kakhandki
-  
+
+
 Projects
 ======
   1. Designed and built a prototype model for “Intelligent Alerting and Braking system” as a part of 6th sem project.
@@ -74,7 +75,8 @@ Projects
   5. 3D modeling and fabrication of a “Speaker” as a part of Product Development and Realization (PDR).
   6. Designed and built PCBs using the Eagle, Autotrax and Express PCB software as a part of self-assessment in 3rd and 4th sem.
   7. Worked on “Network management system (NMS)” as a part of project in Bachelor’s Degree.
-  
+ 
+ 
  Achievements
  =====
   * Achieved 2nd prize in Analog maker competition held by Texas Instruments India in 2014.
@@ -82,7 +84,8 @@ Projects
   * Paper presented at the Indian Technology Congress-2015, Bangalore.
   * Paper presented at the All India IEEE Meet- 2015, Bhimavaram.
   * Attended workshops on Hacking Expert (Level 1.0) and Android App Development in NITK, Suratkal.
-  
+ 
+ 
  Service and leadership
  =====
 
