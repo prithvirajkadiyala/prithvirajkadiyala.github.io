@@ -78,7 +78,7 @@ Projects
  
  
  Accomplishment
- =====
+ ======
   * Achieved 2nd prize in Analog maker competition held by Texas Instruments India in 2014.
   * Helped in the web page designing of the National Tech-fest, Pleiades 2015.
   * Paper presented at the Indian Technology Congress-2015, Bangalore.
@@ -87,7 +87,7 @@ Projects
  
  
  Service
- =====
+ ======
 
   * Junior head of Paper\Poster presentation and Registration committee.
   * Volunteered for Electro-fantasy, Roborace and Robowars events in the Pleiades 2015.
