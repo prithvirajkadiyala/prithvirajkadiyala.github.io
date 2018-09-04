@@ -10,6 +10,24 @@ redirect_from:
 {% include base_path %}
 [Resume PDF version](http://prithvirajkadiyala.github.io/files/Resume.pdf)
 
+# Table of contents
+1. [Education](#Education)
+2. [Skills](#Skills)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
+
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
+
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
+
+### Sub paragraph <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+## Another paragraph <a name="paragraph2"></a>
+The second paragraph text
+
 Education
 ======
 * B.Tech. in Electronics & Communication Engineering, BVBCET, 2012-2016
