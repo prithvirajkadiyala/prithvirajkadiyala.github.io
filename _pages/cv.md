@@ -11,22 +11,13 @@ redirect_from:
 [Resume PDF version](http://prithvirajkadiyala.github.io/files/Resume.pdf)
 
 # Table of contents
-1. [Education](#Education)
-2. [Skills](#Skills)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
-
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
-
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
-
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
+1. [Education](#education)
+2. [Work Experience](#work-experience)
+3. [Skills](#skills)
+4. [Publications](#publications)
+5. [Projects](#projects)
+6. [Achievements](#achievements)
+7. [Service and Leadership](#service-and-leadership)
 
 Education
 ======
