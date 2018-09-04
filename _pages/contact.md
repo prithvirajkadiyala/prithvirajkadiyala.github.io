@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 <p align="center">
 Phone : +1-405-227-6525
-        
+<br>    
 Email : prithvirajkadiyala@ou.edu <br> prithvirajkadiyala@gmail.com
 <br>
 <br>
