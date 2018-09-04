@@ -1,1 +1,1 @@
-This is a Resume based Profile for myself in order to advertise myself to the recruiters.
+A website created to showcase myself to potential employers
