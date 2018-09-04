@@ -77,8 +77,8 @@ Projects
   7. Worked on “Network management system (NMS)” as a part of project in Bachelor’s Degree.
  
  
- Accomplishment
- ======
+Accomplishment
+======
   * Achieved 2nd prize in Analog maker competition held by Texas Instruments India in 2014.
   * Helped in the web page designing of the National Tech-fest, Pleiades 2015.
   * Paper presented at the Indian Technology Congress-2015, Bangalore.
@@ -86,8 +86,8 @@ Projects
   * Attended workshops on Hacking Expert (Level 1.0) and Android App Development in NITK, Suratkal.
  
  
- Service
- ======
+Service
+======
 
   * Junior head of Paper\Poster presentation and Registration committee.
   * Volunteered for Electro-fantasy, Roborace and Robowars events in the Pleiades 2015.
