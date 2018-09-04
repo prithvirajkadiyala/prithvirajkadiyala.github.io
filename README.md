@@ -1,2 +1,1 @@
-# prithvirajkadiyala.github.io
-Website to advertise myself to potential employers
+This is a Resume based Profile for myself in order to advertise myself to the recruiters.
