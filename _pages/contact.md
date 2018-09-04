@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Get in Touch"
 permalink: /contact/
 author_profile: true
 ---
 
 {% include base_path %}
+<h2 align="center">Get in Touch<h2>
 <p align="center">
 Phone : +1-405-227-6525
 <br>  
