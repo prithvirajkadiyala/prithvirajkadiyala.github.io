@@ -53,21 +53,8 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Performance Analysis between CAN Based ECU and a Normal ECU|Dr. R. B Shettar, Prof. Ramakrishna Joshi,and Prithviraj Kadiyala
+* Intelligent Automatic Braking System| Raj Anvekar, Prithviraj Kadiyala, Rohit M G, Sachin Kodliwad, Prof. Arun L. Kakhandki | ITC
   
 Service and leadership
 ======
