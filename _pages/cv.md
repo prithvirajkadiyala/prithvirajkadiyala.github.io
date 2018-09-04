@@ -17,24 +17,52 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2016: Research Assistant
+* Research Assistant : Fall 2016 - Present
   * University of Oklahoma
-  * Duties included: Building Website for USDA-ARS
+  * Duties included: Developing a Web User Interface for USDA to solve their record maintaining issue with books and paper by creating digitally accessible data through webpages.
   * Supervisor: [Dr.Grant](http://www.christangrant.com/)
+  
+* Intern : Nov 2015-Jan 2016
+  * WINGFOTECH Pvt Ltd
+  * Duties included: Controlling devices wirelessly using Raspberry Pi and ZigBee for development in IoT. Using Remote devices to perform daily activities seamlessly.
+  
+* Intern : April 2015-July 2015
+  * BOREDBEES Pvt Ltd
+  * Duties Included: Developing Android Apps for Google Play Store Market to understand the working of Applications in Android using Java in Eclipse IDE.
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical:
+  * JavaScript
+  * Ajax
+  * Python
+  * Flask
+  * MySQL
+  * PostgreSQL
+  * SQLite3
+  * HTML
+  * CSS
+  * R
+  * MATLAB
+  * VLSI
+  * Java
+  * VHDL.
+* Soft Skills:
+  * Leadership
+  * Communication
+  * Management
+  * Teamwork
+  * Time Management
+  * Problem Solving.
+* Software:
+  * SQLDeveloper
+  * Eclipse
+  * Xilinx
+  * ExpressPCB
+  * Cadence
+  * Visual Studio
+  * Adobe Photoshop.
 
 Publications
 ======
