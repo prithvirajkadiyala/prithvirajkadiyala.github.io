@@ -66,6 +66,24 @@ Projects
   6. Designed and built PCBs using the Eagle, Autotrax and Express PCB software as a part of self-assessment in 3rd and 4th sem.
   7. Worked on “Network management system (NMS)” as a part of project in Bachelor’s Degree.
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ Achievements
+ =====
+  * Achieved 2nd prize in Analog maker competition held by Texas Instruments India in 2014.
+  * Helped in the web page designing of the National Tech-fest, Pleiades 2015.
+  * Paper presented at the Indian Technology Congress-2015, Bangalore.
+  * Paper presented at the All India IEEE Meet- 2015, Bhimavaram.
+  * Attended workshops on Hacking Expert (Level 1.0) and Android App Development in NITK, Suratkal.
+  
+ Service and leadership
+ =====
+
+  * Junior head of Paper\Poster presentation and Registration committee.
+  * Volunteered for Electro-fantasy, Roborace and Robowars events in the Pleiades 2015.
+  * Volunteered for Marathon’13 and Marathon’14.
+  * Organized the event Gamers’ Valley in the National Tech-fest Pleiades 2015.
+  * Organized an event Gaming Carnival under EA association in 2014.
+  * Organized the workshops of Spoken Tutorials under MHRD initiative of free video lectures of IIT-Bombay for years 2013-14 & 2014-15.
+    * Latex, Python, Scilab, C\C++, GeoGebra, Libre Office, MySQL
+  * Volunteered for Spell-A-Thon under BVB-IEEE in Oct 2014.
+  * Organized MathStar’13 & MathStar’14 under BVB-IEEE.
+  * Active member of BVB-IEEE.
