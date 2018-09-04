@@ -33,6 +33,17 @@ Work experience
   
 Skills
 ======
+
+| Technical | Soft Skills | Software |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|-----------------------------|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=============================|
+| Foot1   | Foot2   | Foot3   |
+
 * **Technical**:
   * JavaScript
   * Ajax
