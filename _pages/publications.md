@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Performance Analysis between CAN Based ECU and a Normal ECU|Dr. R. B Shettar, Prof. Ramakrishna Joshi,and Prithviraj Kadiyala
+* Intelligent Automatic Braking System| Raj Anvekar, Prithviraj Kadiyala, Rohit M G, Sachin Kodliwad, Prof. Arun L. Kakhandki
