@@ -13,6 +13,7 @@ Before coming to University of Oklahoma(OU) for Masters, I had studied Bachelors
 Apart from Coding, I love to enjoy life as it comes.
 
 I like to be updated with the current technology. 
+I follow [Marques Brownlee](https://www.youtube.com/user/marquesbrownlee) on YouTube to keep myself updated with the new technologies.
 
 I like to watch videos on YouTube about new cars launched.
 
