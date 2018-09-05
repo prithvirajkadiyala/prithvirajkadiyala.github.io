@@ -24,3 +24,6 @@ main:
     
   - title: "Contact Me"
     url: /contact/
+
+  - title: "Photos by Me"
+    url: /photosbyme/
