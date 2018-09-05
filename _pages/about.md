@@ -15,7 +15,7 @@ Apart from Coding, I love to enjoy life as it comes.
 I like to be updated with the current technology. 
 I follow [Marques Brownlee](https://www.youtube.com/user/marquesbrownlee) on YouTube to keep myself updated with the new technologies.
 
-I like to watch videos on YouTube about new cars launched.
+I follow [TheStraightPipes](https://www.youtube.com/channel/UC86SBFIAgnYL3ll2ZDgmsuA) and [RedlineReviews](https://www.youtube.com/channel/UC2MrtVb1dT4FhcbOlW736kA) to get updates about new cars
 
 I love talking about Tesla & Elon Musk.
 
