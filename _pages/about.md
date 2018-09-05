@@ -13,7 +13,9 @@ Before coming to University of Oklahoma(OU) for Masters, I had studied Bachelors
 Apart from Coding, I love to enjoy life as it comes.
 
 I like to be updated with the current technology. 
+
 I like to watch videos on YouTube about new cars launched.
+
 I love talking about Tesla & Elon Musk.
 
   * Hobbies
