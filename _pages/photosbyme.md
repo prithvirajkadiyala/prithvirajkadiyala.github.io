@@ -4,12 +4,10 @@ title: "Photos by Me"
 permalink: /photosbyme/
 author_profile: true
 ---
-{% include base_path %}
 
 Hindu Temple Oklahoma
 ======
-<img src="//prithvirajkadiyala.github.io/_photosbyme/IMG_20180901_185541_01-01.jpeg" alt="Hindu Temple Oklahoma" class="inline"/>
-
+![Hindu Temple Oklahoma](https:////prithvirajkadiyala.github.io/_photosbyme/IMG_20180901_185541_01-01.jpeg)
 Architecture
 ======
 ![Architecture](https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/blob/master/images/IMG_20180905_121705-01.jpeg)
