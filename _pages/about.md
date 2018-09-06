@@ -1,14 +1,13 @@
 ---
 permalink: /
-excerpt: "About me"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About me
-======
+
 Before coming to University of Oklahoma(OU) for Masters, I had studied Bachelors degree from [BVBCET](https://www.kletech.ac.in/) for 4 years.Having worked in a lot of Team projects in Bachelor's degree and having completed them in a very appeasing manner I can say that I am a very good Team Player.
 
 Apart from Coding, I love to enjoy life as it comes.
