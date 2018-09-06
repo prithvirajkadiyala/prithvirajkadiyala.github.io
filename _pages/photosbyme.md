@@ -7,10 +7,10 @@ author_profile: true
 
 Hindu Temple Oklahoma
 ======
-![Hindu Temple Oklahoma](prithvirajkadiyala.github.io/_photosbyme/IMG_20180901_185541_01-01.jpeg)
+![Hindu Temple Oklahoma](https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/raw/master/images/IMG_20180901_185541_01-01.jpeg)
 Architecture
 ======
-![Architecture](https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/blob/master/images/IMG_20180905_121705-01.jpeg)
+![Architecture](https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/raw/master/images/IMG_20180905_121705-01.jpeg)
 
 Cloudy Afternoon
 ======
