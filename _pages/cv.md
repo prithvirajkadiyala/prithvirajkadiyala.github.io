@@ -24,7 +24,7 @@ Education
 
 Work experience
 ======
-* Research Assistant : Fall 2016 - Present
+* Research Assistant : August 2016 - Present
   * **University of Oklahoma**
   * Duties included: Developing a Web User Interface for USDA to solve their record maintaining issue with books and paper by creating digitally accessible data through webpages.
   * Supervisor: [Dr.Grant](http://www.christangrant.com/)
