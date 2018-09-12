@@ -5,6 +5,18 @@ permalink: /photosbyme/
 author_profile: true
 ---
 
+Mushrooms
+======
+![Mushrooms](https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/raw/master/images/Mushrooms.jpeg)
+
+Sunset
+======
+![Sunset](https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/raw/master/images/Sunset.jpeg)
+
+Cake
+======
+![Cake](https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/raw/master/images/Cake.jpeg)
+
 Hindu Temple Oklahoma
 ======
 ![Hindu Temple Oklahoma](https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/raw/master/images/IMG_20180901_185541_01-01.jpeg)
