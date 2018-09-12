@@ -7,15 +7,15 @@ author_profile: true
 
 Mushrooms
 ======
-![Mushrooms](https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/raw/master/images/Mushrooms.jpeg)
+![Mushrooms](https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/raw/master/images/Mushrooms.jpg)
 
 Sunset
 ======
-![Sunset](https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/raw/master/images/Sunset.jpeg)
+![Sunset](https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/raw/master/images/Sunset.jpg)
 
 Cake
 ======
-![Cake](https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/raw/master/images/Cake.jpeg)
+![Cake](https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/raw/master/images/Cake.jpg)
 
 Hindu Temple Oklahoma
 ======
