@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Resume PDF version](http://prithvirajkadiyala.github.io/files/Resume.pdf)
+[Resume PDF version](https://prithvirajkadiyala.github.io/files/Resume_PrithvirajKadiyala.pdf)
 
-[CV PDF Version](http://prithvirajkadiyala.github.io/files/cv.pdf)
+[CV PDF Version](http://prithvirajkadiyala.github.io/files/Prithviraj Kadiyala-CV.pdf)
 
 # Table of contents
 1. [Education](#education)
