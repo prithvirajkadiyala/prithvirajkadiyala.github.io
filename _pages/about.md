@@ -28,4 +28,4 @@ I love talking about Tesla & Elon Musk.
       * Playing Cricket
       * Listening to Music
 
-**Look into other tabs above for more info regarding my Projects, Publications, Resume and Contact Information.
+**Look into other tabs above for more info regarding my Projects, Publications, Resume and Contact Information.**
