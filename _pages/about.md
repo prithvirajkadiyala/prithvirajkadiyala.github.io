@@ -31,4 +31,4 @@ I love talking about Tesla & Elon Musk.
 **Look into other tabs above for more info regarding my Projects, Publications, Resume and Contact Information.**
 
 
-[![HitCount](http://hits.dwyl.io/{prithvirajkadiyala}/{prithvirajkadiyala.github.io}.svg)](http://hits.dwyl.io/{prithvirajkadiyala}/{prithvirajkadiyala.github.io})
+[![HitCount](http://hits.dwyl.io/prithvirajkadiyala/prithvirajkadiyala.github.io.svg)](http://hits.dwyl.io/prithvirajkadiyala/prithvirajkadiyala.github.io)
