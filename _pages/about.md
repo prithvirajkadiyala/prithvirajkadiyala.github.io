@@ -27,3 +27,5 @@ I love talking about Tesla & Elon Musk.
       * Virtual Games
       * Playing Cricket
       * Listening to Music
+
+**Look into other tabs above for more info regarding my Projects, Publications, Resume and Contact Information.
