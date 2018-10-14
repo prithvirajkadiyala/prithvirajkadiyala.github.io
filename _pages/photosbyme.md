@@ -5,6 +5,15 @@ permalink: /photosbyme/
 author_profile: true
 ---
 
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="1" src="https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/raw/master/images/1.jpg"> |  <img width="1604" alt="2" src="https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/raw/master/images/2.jpg">|<img width="1604" alt="3" src="https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/raw/master/images/3.jpg">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+
+
+
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 | <img width="1604" alt="1" src="https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/raw/master/images/1.jpg ">  |  <img width="1604" alt="2" src="https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/raw/master/images/2.jpg "> |<img width="1604" alt="3" src="https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/raw/master/images/3.jpg "> | <img width="1604" alt="Mushrooms" src="https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/raw/master/images/Mushrooms.jpg ">  Mushrooms  |  <img width="1604" alt="Sunset" src="https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/raw/master/images/Sunset.jpg "> Sunset |<img width="1604" alt="Cake" src="https://github.com/prithvirajkadiyala/prithvirajkadiyala.github.io/raw/master/images/Cake.jpg ">  Cake |
