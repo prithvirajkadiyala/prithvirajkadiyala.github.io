@@ -6,14 +6,15 @@ author_profile: true
 ---
 
 
-Current Project (Feb 2018 -  current)
+Current Role (Feb 2018 -  current)
 =====
-*KISS Institute for Practical Robots(KIPR)
-*Lead Software Developer.
+* KISS Institute for Practical Robots(KIPR)
+
+* Lead Software Developer.
 
 Modify the current operating system to get updates over the air.
 
-*Technologies Used
+* Technologies Used
 
 Linux | JavaScript | PHP | C++ 
 
