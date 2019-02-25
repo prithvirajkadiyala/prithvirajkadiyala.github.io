@@ -19,7 +19,7 @@ Linux | JavaScript | PHP | C++
 
 
 
-Last Projects (Aug 2016-Dec 2018)
+Last Project (Aug 2016-Dec 2018)
 ======
 Web-based application for USDA to keep track of animals in their research labratories.
 A live application can be seen [here](livebarn.pythonanywhere.com)
