@@ -8,9 +8,7 @@ author_profile: true
 
 Current Role (Feb 2018 -  current)
 =====
-* KISS Institute for Practical Robots(KIPR)
-
-* Lead Software Developer.
+**Lead Software Developer at KIPR(KISS Institute for Practical Robots)**
 
 Modify the current operating system to get updates over the air.
 
