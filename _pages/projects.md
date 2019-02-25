@@ -5,12 +5,26 @@ permalink: /projects/
 author_profile: true
 ---
 
-Current Projects
+
+Current Project (Feb 2018 -  current)
+=====
+*KISS Institute for Practical Robots(KIPR)
+*Lead Software Developer.
+
+Modify the current operating system to get updates over the air.
+
+*Technologies Used
+
+Linux | JavaScript | PHP | C++ 
+
+
+
+Last Projects (Aug 2016-Dec 2018)
 ======
 Web-based application for USDA to keep track of animals in their research labratories.
 A live application can be seen [here](livebarn.pythonanywhere.com)
 
-I am currently working with the US Department of Agriculture as an IT Consultant from the position of Research Assistant at University of Oklahoma. I am helping them move from Books and Papers based database into Online based MySQL database. Using this database is helping them keep track of changes about the animals they experiment upon. It is also helping them to make new changes much more effectively because the researchers are not needed to spend a lot of time in entering the data and can spend more time on analyzing the data and continuing with the research. You can see the [website](livebarn.pythonanywhere.com) USDA-ARS is using to save their data into the database.
+I was working with the US Department of Agriculture as an IT Consultant from the position of Research Assistant at University of Oklahoma. I am helping them move from Books and Papers based database into Online based MySQL database. Using this database is helping them keep track of changes about the animals they experiment upon. It is also helping them to make new changes much more effectively because the researchers are not needed to spend a lot of time in entering the data and can spend more time on analyzing the data and continuing with the research. You can see the [website](livebarn.pythonanywhere.com) USDA-ARS is using to save their data into the database.
 
   * Languages Used: 
  
