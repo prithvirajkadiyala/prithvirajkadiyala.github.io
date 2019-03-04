@@ -10,7 +10,9 @@ Current Role (Feb 2018 -  current)
 =====
 **Lead Software Developer at KIPR(KISS Institute for Practical Robots)**
 
-Modify the current operating system to get updates over the air.
+* Build a new Controller with better Processor and disregarding obsolete parts.(Raspberry Pi, SolidWorks)
+* Build .deb files for easier Updates OTA.(Linux, debuild, CMakeLists, MakeFiles)
+* Bug Fixes for Libwallaby v24.
 
 * Technologies Used
 
