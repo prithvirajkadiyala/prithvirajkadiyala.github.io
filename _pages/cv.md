@@ -26,7 +26,14 @@ Education
 
 Work experience
 ======
-* Research Assistant : August 2016 - Present
+* Lead Software Developer: February 2019-Present
+  * **KISS INSTITUTE FOR PRACTICAL ROBOTICS**
+  * Duties includes:
+    * Develop incremental updates that are easier to install in the Microcontrollers.
+    * Improve the functionality of the current website.
+    * Bug Fixes for libwallaby v24.
+
+* Research Assistant : August 2016 - December 2018
   * **University of Oklahoma**
   * Duties included: Developing a Web User Interface for USDA to solve their record maintaining issue with books and paper by creating digitally accessible data through webpages.
   * Supervisor: [Dr.Grant](http://www.christangrant.com/)
