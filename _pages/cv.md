@@ -31,7 +31,8 @@ Work experience
   * Duties includes:
     * Develop incremental updates that are easier to install in the Microcontrollers.
     * Improve the functionality of the current website.
-    * Bug Fixes for libwallaby v24.
+    * Bug Fixes for [libwallaby v24](https://github.com/kipr/wallaby).
+    * Improve and add features to the [Botui Qtv4](https://github.com/kipr/botui) for easier Access using the new touchscreen
 
 * Research Assistant : August 2016 - December 2018
   * **University of Oklahoma**
