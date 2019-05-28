@@ -21,8 +21,8 @@ redirect_from:
 
 Education
 ======
+* M.S. in Electrical & Computer Engineering, OU, 2016-2018
 * B.Tech. in Electronics & Communication Engineering, BVBCET, 2012-2016
-* M.S. in Electrical & Computeer Engineering, OU, 2016-2018(expected)
 
 Work experience
 ======
@@ -56,11 +56,13 @@ Skills
 | JavaScript    | Leadership   | SQLDeveloper   |
 | Ajax          | Communication| Eclipse        |
 | Python        | Management   | Xilinx         |
-| Flask         | Teamwork     | ExpressPCB     |
-| MySQL         | Problem Solving| Cadence      |
-| PostgreSQL    |              | Visual Studio  |
-| SQLite3       |              | Adobe Photoshop|
-| HTML          |              | Adobe Premiere Pro |
+| Qt v4         | Teamwork     | ExpressPCB     |
+| Flask         | Problem Solving| Cadence      |
+| C ++          |              | Visual Studio  |
+| MySQL         |              | Adobe Photoshop|
+| PostgreSQL    |              | Adobe Premiere Pro |
+| SQLite3       |              |                |
+| HTML          |              |                |
 | CSS           |              |                |
 | R             |              |                |
 | MATLAB        |              |                |
