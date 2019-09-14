@@ -27,10 +27,13 @@ Work experience
 * Lead Software Developer: February 2019-Present
   * **KISS INSTITUTE FOR PRACTICAL ROBOTICS**
   * Duties includes:
-    * Develop incremental updates (.rpm files) that are easier to install in the Microcontrollers.
+    * Develop incremental updates (.rpm files) that are easier to install in the controllers.
     * Improve the functionality of the current website.
     * Develop new features that help operate the controller with much ease.
     * Bug Fixes for [libwallaby v24](https://github.com/kipr/wallaby).
+    * Develop Software Application for the new Controller as a part of new Product release • in July 2019.
+    * Document the code and Clean the unnecessary code.
+    * Testing the controller for issues as well as software inadequacies.
     * Improve and add features to the [Botui Qtv4](https://github.com/kipr/botui) for easier Access using the new touchscreen
 
 * Research Assistant : August 2016 - December 2018
