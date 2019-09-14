@@ -10,8 +10,6 @@ redirect_from:
 {% include base_path %}
 [Resume PDF version](https://prithvirajkadiyala.github.io/files/Resume_PrithvirajKadiyala.pdf)
 
-[CV PDF Version](http://prithvirajkadiyala.github.io/files/Prithviraj_Kadiyala-CV.pdf)
-
 # Table of contents
 1. [Education](#education)
 2. [Work Experience](#work-experience)
