@@ -102,4 +102,4 @@ Certificates
 
   * Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning [Certificate](https://www.coursera.org/account/accomplishments/certificate/53HJY2QYEG3B)
   * Convolutional Neural Networks in TensorFlow [Certificate](https://www.coursera.org/account/accomplishments/certificate/AZAUNGGYUKGL)
-  * Natural Language Processing in TensorFlow [Certificate]()
+  * Natural Language Processing in TensorFlow [Certificate](https://www.coursera.org/account/accomplishments/certificate/3UL8UR28Y3NT)
