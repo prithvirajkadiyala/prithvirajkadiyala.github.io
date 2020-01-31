@@ -6,12 +6,13 @@ author_profile: true
 ---
 
 
-Current Role (Feb 2018 -  current)
+Current Role (Feb 2019 -  current)
 =====
 **Lead Software Developer at KIPR(KISS Institute for Practical Robots)**
 
 * Build a new Controller with better Processor and disregarding obsolete parts.(Raspberry Pi, SolidWorks)
 * Build .deb files for easier Updates OTA.(Linux, debuild, CMakeLists, MakeFiles)
+* Develop further libraries to aid the learn process of school children.
 * Bug Fixes for Libwallaby v24.
 
 * Technologies Used
