@@ -16,6 +16,7 @@ redirect_from:
 3. [Skills](#skills)
 4. [Accomplishment](#accomplishment)
 5. [Service](#service)
+6. [Certificates](#certificates)
 
 Education
 ======
@@ -95,3 +96,10 @@ Service
   * Volunteered for Spell-A-Thon under BVB-IEEE in Oct 2014.
   * Organized MathStar’13 & MathStar’14 under BVB-IEEE.
   * Active member of BVB-IEEE.
+
+Certificates
+============
+
+  * Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning [Certificate](https://www.coursera.org/account/accomplishments/certificate/53HJY2QYEG3B)
+  * Convolutional Neural Networks in TensorFlow [Certificate](https://www.coursera.org/account/accomplishments/certificate/AZAUNGGYUKGL)
+  * Natural Language Processing in TensorFlow [Certificate]()
