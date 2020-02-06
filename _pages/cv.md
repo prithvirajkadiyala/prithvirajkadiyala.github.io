@@ -99,7 +99,9 @@ Service
 
 Certificates
 ============
-
+  * TensorFlow in Practice Specialization [Certificate](https://www.coursera.org/account/accomplishments/specialization/NU96VRC6EKP7)
   * Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning [Certificate](https://www.coursera.org/account/accomplishments/certificate/53HJY2QYEG3B)
   * Convolutional Neural Networks in TensorFlow [Certificate](https://www.coursera.org/account/accomplishments/certificate/AZAUNGGYUKGL)
   * Natural Language Processing in TensorFlow [Certificate](https://www.coursera.org/account/accomplishments/certificate/3UL8UR28Y3NT)
+  * Sequences, Time Series and Prediction [Certificate](https://www.coursera.org/account/accomplishments/verify/YT94D6Q7VBDX)
+  
