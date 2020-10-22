@@ -28,18 +28,30 @@ Work experience
 * Lead Software Developer: February 2019-Present
   * **KISS INSTITUTE FOR PRACTICAL ROBOTICS**
   * Duties includes:
-    * Develop incremental updates (.rpm files) that are easier to install in the controllers.
-    * Improve the functionality of the current website.
-    * Develop new features that help operate the controller with much ease.
-    * Bug Fixes for [libwallaby v24](https://github.com/kipr/wallaby).
-    * Develop Software Application for the new Controller as a part of new Product release • in July 2019.
-    * Document the code and Clean the unnecessary code.
-    * Testing the controller for issues as well as software inadequacies.
-    * Improve and add features to the [Botui Qtv4](https://github.com/kipr/botui) for easier Access using the new touchscreen
+    * Developed and Deployed a 3D-Simulator based on a robot curriculum for 100% virtual access to students.
+    * Collaborated to implement 3D-Simulator hosted on Amazon AWS to administer computing power to each user.
+    * Analyzed and improved our company homepage by improving scripting thereby improving load times by ~10%.
+    * Led the development, build and execution of a new Controller named "Wombat" which has increased efficiency by 100%, Operating speed by ~400% with the help of newer, better and cheaper components.
+    * Introduced AI into Robotics for Elementary and Mid-School students.(ML, AI, Image Recognition, OpenCV).
+    * Developed software update patches to address bugs and better functionality.
+    * Develop and Improvise libraries in Linux based OS for more functionality and modular use of the robot infrastructure.
+    * Implemented new features: Over-the-Air Updates, More libraries, Better Wi-Fi connectivity and Easier SD card swaps.
+    * Technologies Used: TypeScript, Reactjs, Nodejs, Threejs, Ammojs, C++, Python, Qt, HTML, OOPs
+    
 
 * Research Assistant : August 2016 - December 2018
   * **University of Oklahoma**
-  * Duties included: Developing a Web User Interface for USDA to solve their record maintaining issue with books and paper by creating digitally accessible data through webpages.
+  * Duties included: 
+    * Developing a Web User Interface for USDA to solve their record maintaining issue with books and paper by creating digitally accessible data through webpages.
+    * Designed and deployed a website while leading a team of 5  while improving the performance over existing application.
+    * Implemented multi-user functionality allowing for data exchange times between the animal scientists by ~100%.
+    * Implemented a search functionality with a radio checkbox to minimize the search radius to reduce load time by ~75%.
+    * Website hosted on remote Linux server using Apache framework to accommodate Flask applications.
+    * Implemented Python for redirection and handling server requests between JavaScript and RestAPIs in JSON format.
+    * Implemented RestAPIs for asynchronous server requests allowing multi-user functionality to function better.
+    * Responsible for translating the Scientists' requirements into Real-world features.
+    * Enhanced user experience by fine-tuning stored procedures & SQL queries for efficient data retrieval for ~1M records.
+    * Technologies Used: Python, JavaScript, AJAX, REST-API, MySQL, Flask
   * Supervisor: [Dr.Grant](http://www.christangrant.com/)
   
 * Intern : Aug 2015-Dec 2015
