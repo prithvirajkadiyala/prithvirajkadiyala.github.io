@@ -25,27 +25,45 @@ Education
 
 Work experience
 ======
-* Software Developer, 
+* Software Developer,
+  
   * **7-Eleven** May 2023 - Mar 2025
     • Developed Kubernetes-native applications, leveraging Helm charts and Docker containers for streamlined deployment and scalability.
+    
     • Integrated Prometheus and Grafana for metrics monitoring, improving visibility into system performance.
+    
     • Automated batch job tracking, reducing manual intervention for 4500+ requests weekly and enhancing operational efficiency.
+    
     • Designed and implemented Terraform-based infrastructure as code (IaC) for AWS, ensuring consistent and scalable infrastructure deployment.
+    
     • Led partner communications with Grubhub and Skip the Dishes, collaborating with system engineers to define automation requirements and reduce transaction failures by 30%.
-    • Introduced strategic batching of product updates, reducing system load and ensuring reliable partner platform opera-tions.
+    
+    • Introduced strategic batching of product updates, reducing system load and ensuring reliable partner platform operations.
+    
     • Enhanced Grubhub integration, reducing latency by 10% and increasing transaction success rates by 30% through technical enhancements and effective communication.
+    
     • Directed Speedway substitutions automation, reducing order cancellations by 50% and improving product availability.
+    
     • Enabled SNAP EBT support across 13,000+ stores, expanding coverage and improving service accessibility.
+    
     • Created and maintained documentation for new systems and processes, providing clear technical references for internal teams.
+    
     • Provided technical mentorship to junior engineers, fostering skill growth and promoting best practices.
 
-* Tech Lead,
+* Tech Lead
+
 * **Infosys Limited** Jan 2021 - May 2023
+  
     • Developed and maintained AWS infrastructure using Terraform and Jenkins pipelines, ensuring automated and consistent cloud deployments.
+  
     • Engineered shell scripts and Docker containers to enhance system automation and deployment efficiency.
+  
     • Applied DevOps practices, including CI/CD pipelines with Git, Jenkins, and Helm charts.
+  
     • Supervised and mentored junior engineers, providing technical guidance and reviewing code for quality and consistency.
+  
     • Delivered system documentation and technical reports, highlighting efficient processes and automation frameworks.
+  
     • Conducted cost calculation analysis to assess partner profitability, providing key business insights to drive decision-making.
 
 * Lead Software Developer: February 2019-Present
