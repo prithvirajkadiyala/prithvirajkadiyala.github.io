@@ -28,6 +28,7 @@ Work experience
 * Software Developer,
   
   * **7-Eleven** May 2023 - Mar 2025
+ 
     • Developed Kubernetes-native applications, leveraging Helm charts and Docker containers for streamlined deployment and scalability.
     
     • Integrated Prometheus and Grafana for metrics monitoring, improving visibility into system performance.
