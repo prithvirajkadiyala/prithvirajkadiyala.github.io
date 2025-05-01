@@ -25,31 +25,35 @@ Education
 
 Work experience
 ======
+* Software Developer II,
+  
+  * **7-Eleven** May 2024 - Mar 2025
+      - Migrated legacy services from JavaScript to Java with Spring Boot during a team merger, learning and applying the new stack under pressure to meet delivery deadlines.
+      - Developed RESTful APIs secured with OAuth-based authentication, integrating seamlessly with AWS IAM for consistency across cloud services.
+      - Designed and deployed AWS Lambda pipelines and S3-backed async workflows for high-volume real-time data ingestion and processing.
+      - Utilized MongoDB to handle customer data securely, ensuring sensitive information was never exposed to third-party clients.
+      - Enforced fine-grained IAM policies and integrated AWS Secrets Manager to securely manage credentials and prevent hard-coded secrets.
+      - Created automated dashboards to track third-party data ingestion errors, reducing incorrect data exposure for over 4,500 users by moving from manual retriggers to error-based automated updates every 30 minutes.
+      - Implemented CloudWatch alarms and automated service retries to ensure stability during production releases and reduce customer-facing incidents.
+      - Used Redis caching to reduce external API latency and improve system responsiveness.
+      - Maintained cross-team communication to ensure API changes and service upgrades were well-integrated and backward-compatible.
+      - Led third-party integrations (e.g., Grubhub, DoorDash), increasing partner success rates by 30%.
+      - Mentored junior developers and contributed to agile process improvements for better velocity tracking and predictability.
+
 * Software Developer,
   
-  * **7-Eleven** May 2023 - Mar 2025
- 
-    • Developed Kubernetes-native applications, leveraging Helm charts and Docker containers for streamlined deployment and scalability.
-    
-    • Integrated Prometheus and Grafana for metrics monitoring, improving visibility into system performance.
-    
-    • Automated batch job tracking, reducing manual intervention for 4500+ requests weekly and enhancing operational efficiency.
-    
-    • Designed and implemented Terraform-based infrastructure as code (IaC) for AWS, ensuring consistent and scalable infrastructure deployment.
-    
-    • Led partner communications with Grubhub and Skip the Dishes, collaborating with system engineers to define automation requirements and reduce transaction failures by 30%.
-    
-    • Introduced strategic batching of product updates, reducing system load and ensuring reliable partner platform operations.
-    
-    • Enhanced Grubhub integration, reducing latency by 10% and increasing transaction success rates by 30% through technical enhancements and effective communication.
-    
-    • Directed Speedway substitutions automation, reducing order cancellations by 50% and improving product availability.
-    
-    • Enabled SNAP EBT support across 13,000+ stores, expanding coverage and improving service accessibility.
-    
-    • Created and maintained documentation for new systems and processes, providing clear technical references for internal teams.
-    
-    • Provided technical mentorship to junior engineers, fostering skill growth and promoting best practices.
+  * **7-Eleven** May 2023 - May 2024
+      - Developed Kubernetes-native applications, leveraging Helm charts and Docker containers for streamlined deployment and scalability.
+      - Integrated Prometheus and Grafana for metrics monitoring, improving visibility into system performance.
+      - Automated batch job tracking, reducing manual intervention for 4500+ requests weekly and enhancing operational efficiency.
+      - Designed and implemented Terraform-based infrastructure as code (IaC) for AWS, ensuring consistent and scalable infrastructure deployment.
+      - Led partner communications with Grubhub and Skip the Dishes, collaborating with system engineers to define automation requirements and reduce transaction failures by 30%.
+      - Introduced strategic batching of product updates, reducing system load and ensuring reliable partner platform operations.
+      - Enhanced Grubhub integration, reducing latency by 10% and increasing transaction success rates by 30% through technical enhancements and effective communication.
+      - Directed Speedway substitutions automation, reducing order cancellations by 50% and improving product availability.
+      - Enabled SNAP EBT support across 13,000+ stores, expanding coverage and improving service accessibility.
+      - Created and maintained documentation for new systems and processes, providing clear technical references for internal teams.
+      - Provided technical mentorship to junior engineers, fostering skill growth and promoting best practices.
 
 * Tech Lead
 
