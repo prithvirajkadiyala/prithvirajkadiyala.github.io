@@ -58,18 +58,16 @@ Work experience
 * Tech Lead
 
 * **Infosys Limited** Jan 2021 - May 2023
-  
-    • Developed and maintained AWS infrastructure using Terraform and Jenkins pipelines, ensuring automated and consistent cloud deployments.
-  
-    • Engineered shell scripts and Docker containers to enhance system automation and deployment efficiency.
-  
-    • Applied DevOps practices, including CI/CD pipelines with Git, Jenkins, and Helm charts.
-  
-    • Supervised and mentored junior engineers, providing technical guidance and reviewing code for quality and consistency.
-  
-    • Delivered system documentation and technical reports, highlighting efficient processes and automation frameworks.
-  
-    • Conducted cost calculation analysis to assess partner profitability, providing key business insights to drive decision-making.
+    - Architected and provisioned secure, scalable AWS environments using Terraform, supporting consistent infrastructure management and secure deployments.
+    - Led the migration from monolithic Java services to containerized microservices, increasing system uptime from 60% to 99% and eliminating crashes during peak data loads.
+    - Developed Docker-based microservices with Auto Scaling Groups and Load Balancers, ensuring elasticity, resiliency, and optimal performance under varying loads.
+    - Worked with PostgreSQL in AWS environments, using Terraform to set up multiple instances, ensuring separation of Read/Write databases to optimize performance for both reads and writes.
+    - Configured IAM roles, policies, and security groups to enforce fine-grained access control for services and teams.
+    - Integrated OpenTelemetry (OTEL) for distributed tracing and observability, enabling fast root cause analysis and proactive incident prevention.
+    - Collaborated with external teams to ensure API endpoints were enriched with accurate, complete data and aligned with business requirements.
+    - Implemented pagination strategies for long-running queries and result sets to optimize network performance, reduce DB strain, and ensure full data delivery for clients.
+    - Advocated and implemented GitOps for infrastructure automation, reducing configuration drift and increasing delivery confidence.
+    - Mentored junior engineers and actively participated in agile ceremonies, fostering a culture of code quality, collaboration, and continuous improvement.
 
 * Lead Software Developer: February 2019-Present
   * **KISS INSTITUTE FOR PRACTICAL ROBOTICS**
